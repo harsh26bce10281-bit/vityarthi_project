@@ -1,6 +1,6 @@
 # Inventory Management System
 
-A simple command-line Inventory Management System developed in Python for the CSE1021 Introduction to Problem Solving and Programming course.
+A simple command-line Inventory Management System developed in Python.
 
 ## Project Overview
 
@@ -38,18 +38,16 @@ inventory-management-system/
 ## Requirements
 
 - Python 3.8 or newer
-- No third-party Python packages are required.
 
 ## Setup
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/inventory-management-system.git
+git clone https://github.com/harsh26bce10281/inventory-management-system.git
 cd inventory-management-system
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
 
 ### 2. Optional virtual environment
 
